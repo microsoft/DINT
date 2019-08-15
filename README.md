@@ -21,7 +21,9 @@ Guidance on onboarding samples to docs.microsoft.com/samples: https://review.doc
 Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
 -->
 
-DINT: Do I Need This, is a web browser extension aimed to help online shoppers make better purchasing decisions. Whenever a user tries to purchase an item similar to what they purchased earlier, DINT notifies them about the repeat purchase and gives them an opportunity to reflect on whether they really need it. We also allow users to set a saving goal, monitor their progress towards that goal, view their purchase history, and filter notifications for certain products such as necessities.
+DINT: Do I Need This, is a web browser extension aimed to help online shoppers make better purchasing decisions. Whenever a user tries to purchase an item similar to what they purchased earlier, DINT notifies them about the repeat purchase and gives them an opportunity to reflect on whether they really need it. We also allow users to set a saving goal, monitor their progress towards that goal, view their purchase history, and filter notifications for certain products such as necessities.  
+
+This is a community project that was started during the 2019 OneWeek Hackathon for the Hack for Sustainability challenge. 
 
 ## Contents
 
